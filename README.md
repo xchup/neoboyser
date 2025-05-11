@@ -1,5 +1,6 @@
-<p align"center">Neoboyser</h1>
-## Welcome to my profile...
+<h1 align="center">Neoboyser</h1>
+<p align="center"><strong>Hi,Welcome to my PROFILE</strong></p>
+---
 
 <p align="center">
   <img src="https://github.com/neoboyser.png?size=500" width="500" style="border-radius: 50%" />
